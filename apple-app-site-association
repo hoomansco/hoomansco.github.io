@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "792L89JQN6.hoomans.co.Lagom",
+        "paths": [
+          "/openTab",
+          "/openTab/*"
+        ]
+      }
+    ]
+  }
+}
+
